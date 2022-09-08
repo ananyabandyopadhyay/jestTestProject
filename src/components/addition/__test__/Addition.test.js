@@ -27,7 +27,7 @@ it('Renders input box correctly', () => {
 it('Renders button correctly', () => {
   render(<Addition />);
   const data = screen.getByTestId("addButton")
-  expect(data).toHaveTextContent("Add");
+  expect(data).toHaveTextContent("Addddd");
   fireEvent.click(data)
 });
 

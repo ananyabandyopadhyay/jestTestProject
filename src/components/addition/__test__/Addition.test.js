@@ -30,6 +30,7 @@ it('Renders button correctly', () => {
   expect(data).toHaveTextContent("Add");
   fireEvent.click(data)
 });
+
 //circle ci
 //trapiz ci
 //json placeholder

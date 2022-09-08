@@ -20,7 +20,7 @@ function App() {
         </a>
 
       </header> */}
-      <div>From main</div>
+      <div>learn jest</div>
       <Addition />
 
     </div>
